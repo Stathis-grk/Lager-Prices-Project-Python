@@ -26,14 +26,16 @@ The analysis is organized in a Jupyter Notebook (Lager Prices Project.ipynb) wit
 
 ## Exploratory Data Analysis
 #### Value counts and unique values for Greece prices
-<img width="2481" height="775" alt="image" src="https://github.com/user-attachments/assets/cf45bea0-8fa9-4818-a402-95460257cfa2" />
+<img width="1223" height="775" alt="image" src="https://github.com/user-attachments/assets/bc7610a3-09be-40f1-85d2-e62669f61043" />
 
 #### Correlation analysis between countries and Calculation of percentage returns for Germany prices
-<img width="2475" height="1250" alt="image" src="https://github.com/user-attachments/assets/5fdc6e8b-051a-4dcf-9e53-b6310bfedacb" />
+<img width="1261" height="1250" alt="image" src="https://github.com/user-attachments/assets/975e1ebe-39cc-451d-bf0b-ea91df63a172" />
+
 
 ## Visualization
 #### Time series comparison of lager prices across all three countries
-<img width="1120" height="710" alt="image" src="https://github.com/user-attachments/assets/780fb10d-59e2-4092-9999-d01def26a76e" />
+<img width="1120" height="710" alt="Στιγμιότυπο οθόνης 2025-09-17 142319" src="https://github.com/user-attachments/assets/ca2b1a16-5b9c-4ae4-a423-b7551b98f6b4" />
+
 
 # Key Findings
 ## Statistical Summary
