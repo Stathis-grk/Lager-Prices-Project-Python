@@ -32,6 +32,10 @@ The analysis is organized in a Jupyter Notebook (Lager Prices Project.ipynb) wit
 <img width="1120" height="710" alt="image" src="https://github.com/user-attachments/assets/780fb10d-59e2-4092-9999-d01def26a76e" />
 
 # Key Findings
+## Statistical Summary
+<img width="768" height="267" alt="image" src="https://github.com/user-attachments/assets/762c817c-ac66-48d5-94c0-adda4dbd2e95" />
+
+
 ## Correlation Analysis
 Strong positive correlations exist between all countries:
 
