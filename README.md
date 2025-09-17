@@ -17,11 +17,11 @@ The analysis is organized in a Jupyter Notebook (Lager Prices Project.ipynb) wit
 
 ## Data Cleaning and Preparation
 #### Convert TIME column to datetime format
-<img width="1235" height="788" alt="image" src="https://github.com/user-attachments/assets/6c6f5da0-0165-423b-9d40-457dfb1f8eeb" />
+<img width="1529" height="1091" alt="image" src="https://github.com/user-attachments/assets/b0969120-6eba-4994-b63a-92f8b930ec08" />
 
 
 #### Check for missing values and duplicates
-<img width="2521" height="787" alt="image" src="https://github.com/user-attachments/assets/f4b20978-4069-4ef4-98ce-5887f46435b6" />
+<img width="1235" height="788" alt="image" src="https://github.com/user-attachments/assets/6c6f5da0-0165-423b-9d40-457dfb1f8eeb" />
 
 ## Exploratory Data Analysis
 #### Value counts and unique values for Greece prices
