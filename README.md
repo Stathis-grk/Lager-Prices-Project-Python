@@ -11,6 +11,7 @@ The analysis is organized in a Jupyter Notebook (Lager Prices Project.ipynb) wit
 <img width="1045" height="743" alt="Στιγμιότυπο οθόνης 2025-09-17 140917" src="https://github.com/user-attachments/assets/d54b17c3-ea0f-4124-9fd8-c93b575524c5" />
 
 
+
 ### Basic dataset information and statistics
 <img width="1335" height="1156" alt="image" src="https://github.com/user-attachments/assets/4d925f13-6e4b-4aa1-b46e-4b67dccf4cab" />
 
@@ -21,12 +22,15 @@ The analysis is organized in a Jupyter Notebook (Lager Prices Project.ipynb) wit
 <img width="1529" height="1091" alt="image" src="https://github.com/user-attachments/assets/b0969120-6eba-4994-b63a-92f8b930ec08" />
 
 
+
 ### Check for missing values and duplicates
 <img width="1235" height="788" alt="image" src="https://github.com/user-attachments/assets/6c6f5da0-0165-423b-9d40-457dfb1f8eeb" />
 
 ## Exploratory Data Analysis
 ### Value counts and unique values for Greece prices
 <img width="1223" height="775" alt="image" src="https://github.com/user-attachments/assets/bc7610a3-09be-40f1-85d2-e62669f61043" />
+
+
 
 ### Correlation analysis between countries and Calculation of percentage returns for Germany prices
 <img width="1261" height="1250" alt="image" src="https://github.com/user-attachments/assets/975e1ebe-39cc-451d-bf0b-ea91df63a172" />
