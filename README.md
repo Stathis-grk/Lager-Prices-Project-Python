@@ -12,7 +12,8 @@ The analysis is organized in a Jupyter Notebook (Lager Prices Project.ipynb) wit
 
 
 #### Basic dataset information and statistics
-<img width="1529" height="1091" alt="image" src="https://github.com/user-attachments/assets/b0969120-6eba-4994-b63a-92f8b930ec08" />
+<img width="1335" height="1156" alt="image" src="https://github.com/user-attachments/assets/4d925f13-6e4b-4aa1-b46e-4b67dccf4cab" />
+
 
 
 ## Data Cleaning and Preparation
