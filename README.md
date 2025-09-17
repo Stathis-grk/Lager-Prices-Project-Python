@@ -8,14 +8,17 @@ The analysis is organized in a Jupyter Notebook (Lager Prices Project.ipynb) wit
 
 ## Data Import and Initial Exploration
 #### Import necessary libraries (pandas, numpy, matplotlib) and Load and display the dataset
-<img width="2513" height="742" alt="image" src="https://github.com/user-attachments/assets/1015cb54-24a4-4149-b625-887d45b70a62" />
+<img width="1045" height="743" alt="Στιγμιότυπο οθόνης 2025-09-17 140917" src="https://github.com/user-attachments/assets/d54b17c3-ea0f-4124-9fd8-c93b575524c5" />
+
 
 #### Basic dataset information and statistics
-<img width="2502" height="1156" alt="image" src="https://github.com/user-attachments/assets/9d6c15eb-139a-4967-9e44-93717855f554" />
+<img width="1529" height="1091" alt="image" src="https://github.com/user-attachments/assets/b0969120-6eba-4994-b63a-92f8b930ec08" />
+
 
 ## Data Cleaning and Preparation
 #### Convert TIME column to datetime format
-<img width="2525" height="1091" alt="image" src="https://github.com/user-attachments/assets/7b07fc87-bd92-47a3-b576-5d832ee37c0d" />
+<img width="1235" height="788" alt="image" src="https://github.com/user-attachments/assets/6c6f5da0-0165-423b-9d40-457dfb1f8eeb" />
+
 
 #### Check for missing values and duplicates
 <img width="2521" height="787" alt="image" src="https://github.com/user-attachments/assets/f4b20978-4069-4ef4-98ce-5887f46435b6" />
