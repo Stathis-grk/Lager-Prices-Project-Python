@@ -32,8 +32,9 @@ The analysis is organized in a Jupyter Notebook (Lager Prices Project.ipynb) wit
 
 
 
-### Correlation analysis between countries and Calculation of percentage returns for Germany prices
-<img width="1261" height="1250" alt="image" src="https://github.com/user-attachments/assets/975e1ebe-39cc-451d-bf0b-ea91df63a172" />
+### Correlation analysis between countries and Calculation of percentage changes for Germany, France and Greece prices
+<img width="1240" height="1252" alt="image" src="https://github.com/user-attachments/assets/1bca40fe-36f2-4749-a99a-6da7ac7b8e14" />
+
 
 
 ## Visualization
