@@ -45,7 +45,6 @@ The analysis is organized in a Jupyter Notebook (Lager Prices Project.ipynb) wit
 
 
 # Key Findings
-## Statistical Summary
 <img width="768" height="267" alt="image" src="https://github.com/user-attachments/assets/762c817c-ac66-48d5-94c0-adda4dbd2e95" />
 
 
