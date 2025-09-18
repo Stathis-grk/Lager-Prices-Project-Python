@@ -40,6 +40,8 @@ The analysis is organized in a Jupyter Notebook (Lager Prices Project.ipynb) wit
 ## Visualization
 ### Time series comparison of lager prices across all three countries
 <img width="1120" height="710" alt="Στιγμιότυπο οθόνης 2025-09-17 142319" src="https://github.com/user-attachments/assets/ca2b1a16-5b9c-4ae4-a423-b7551b98f6b4" />
+<img width="997" height="657" alt="image" src="https://github.com/user-attachments/assets/7a6e55b3-4d93-4b71-8d1b-570c32273f97" />
+
 
 
 # Key Findings
