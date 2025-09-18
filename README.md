@@ -72,6 +72,6 @@ Greece (blue line): Highest overall prices with substantial fluctuations
 
 Germany (purple line): Frequent fluctuations around zero with several noticeable spikes, indicating relatively high volatility compared to the others.
 
-France (black line): The most stable series, staying closer to zero with smaller swings, showing the least volatility.
+France (white line): The most stable series, staying closer to zero with smaller swings, showing the least volatility.
 
 Greece (orange line): Stronger spikes (both upward and downward) compared to Germany and France, showing sharp short-term percentage changes.
