@@ -38,7 +38,7 @@ The analysis is organized in a Jupyter Notebook (Lager Prices Project.ipynb) wit
 
 
 ## Visualization
-### Time series comparison of lager prices across all three countries
+### Time series comparison of lager prices and percentage changes across all three countries
 <img width="1120" height="710" alt="Στιγμιότυπο οθόνης 2025-09-17 142319" src="https://github.com/user-attachments/assets/ca2b1a16-5b9c-4ae4-a423-b7551b98f6b4" />
 <img width="997" height="657" alt="image" src="https://github.com/user-attachments/assets/7a6e55b3-4d93-4b71-8d1b-570c32273f97" />
 
@@ -66,3 +66,12 @@ Germany (red line): Highest volatility with significant price increases over tim
 France (yellow line): Moderate price increases with less volatility
 
 Greece (blue line): Highest overall prices with substantial fluctuations
+
+## Percentage changes Visualization
+### The visualization shows:
+
+Germany (purple line): Frequent fluctuations around zero with several noticeable spikes, indicating relatively high volatility compared to the others.
+
+France (black line): The most stable series, staying closer to zero with smaller swings, showing the least volatility.
+
+Greece (orange line): Stronger spikes (both upward and downward) compared to Germany and France, showing sharp short-term percentage changes.
